@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="playsaxophone-30a9fc">
+ <names>
+  <name lang="en_US">PlaySaxophone</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="play_sax">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">bhr_play_sax</name>
+   </names>
+   <descriptions>
+    <description lang="en_US">This application plays the saxophone animation.</description>
+   </descriptions>
+   <triggerSentences>
+    <sentence lang="en_US">Can you play the sax?</sentence>
+    <sentence lang="en_US">Can you play the saxophone?</sentence>
+    <sentence lang="en_US">Play the sax</sentence>
+    <sentence lang="en_US">Play the saxophone.</sentence>
+    <sentence lang="en_US">Play saxophone.</sentence>
+    <sentence lang="pt_PT">Play the sax</sentence>
+   </triggerSentences>
+   <loadingResponses>
+    <sentence lang="en_US">Let me remember.</sentence>
+   </loadingResponses>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="shakehands-ca6453" version="0.0.0">
+ <names>
+  <name lang="en_US">ShakeHands</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="shake">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Shake Hand</name>
+   </names>
+   <descriptions>
+    <description lang="en_US">Let's shake hands.</description>
+   </descriptions>
+   <triggerSentences>
+    <sentence lang="en_US">Shake</sentence>
+    <sentence lang="en_US">Shake my hand.</sentence>
+    <sentence lang="en_US">Can you shake my hand?</sentence>
+   </triggerSentences>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

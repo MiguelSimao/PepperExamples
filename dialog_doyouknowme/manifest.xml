@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="dialog_doyouknowme-7c774d" version="0.0.0">
+ <names>
+  <name lang="en_US">dialog_doyouknowme</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <dialogContent typeVersion="1.0" topicName="DoYouKnowMe">
+   <topic language="en_US" path="DoYouKnowMe/DoYouKnowMe_enu.top"/>
+  </dialogContent>
+ </contents>
+</package>

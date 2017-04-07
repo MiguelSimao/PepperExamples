@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="playguitar-c90248">
+ <names>
+  <name lang="en_US">PlayGuitar</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="bhr_play_guitar">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">bhr_play_guitar</name>
+   </names>
+   <triggerSentences>
+    <sentence lang="en_US">Play guitar</sentence>
+    <sentence lang="en_US">Can you play guitar?</sentence>
+   </triggerSentences>
+   <loadingResponses>
+    <sentence lang="en_US">I think so...</sentence>
+    <sentence lang="en_US">Watch this!</sentence>
+   </loadingResponses>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

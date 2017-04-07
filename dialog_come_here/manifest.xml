@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.1" uuid="dialog_come_here-7ad18d">
+ <names>
+  <name lang="en_US">dialog_come_here</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="bhr_go">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">bhr_navigate_here</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <dialogContent topicName="dlg_come_here" typeVersion="1.0">
+   <topic language="en_US" path="dlg_come_here/dlg_come_here_enu.top"/>
+  </dialogContent>
+ </contents>
+</package>

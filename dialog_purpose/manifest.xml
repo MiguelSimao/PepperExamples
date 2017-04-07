@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="dialog_purpose-852085" version="0.0.1">
+ <names>
+  <name lang="en_US">dialog_purpose</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <dialogContent topicName="dialog_purpose" typeVersion="1.0">
+   <topic language="en_US" path="dialog_purpose/dialog_purpose_enu.top"/>
+  </dialogContent>
+ </contents>
+</package>

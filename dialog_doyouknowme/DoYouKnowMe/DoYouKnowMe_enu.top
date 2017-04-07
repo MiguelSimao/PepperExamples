@@ -1,0 +1,5 @@
+topic: ~DoYouKnowMe()
+language: enu
+
+# Reply to
+u:(do you know me) ^start(animations/Stand/Emotions/Neutral/Puzzled_1) Let me give you a good look.

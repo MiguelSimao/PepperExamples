@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="dialog_pt_ola-3be98b" version="0.0.1">
+ <names>
+  <name lang="en_US">dialog_pt_ola</name>
+  <name lang="en_US-x-scrald">dialog_pt_ola</name>
+  <name lang="pt_PT">dialog_pt_ola</name>
+  <name lang="pt_PT-x-scrald">dialog_pt_ola</name>
+ </names>
+ <descriptions>
+  <description lang="pt_PT">Diálogo básico 'Olá'</description>
+  <description lang="pt_PT-x-scrald">Diálogo básico 'Olá'</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>pt_PT</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>pt_PT</language>
+ </descriptionLanguages>
+ <contents>
+  <dialogContent typeVersion="1.0" topicName="Ola">
+   <topic language="pt_PT" path="dlg_pt_ola/Ola_ptp.top"/>
+  </dialogContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement maxVersion="2.4" minVersion="2.4"/>
+  <robotRequirement model="JULIETTE"/>
+ </requirements>
+</package>
